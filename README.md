@@ -2,9 +2,13 @@
 
 This repository stores replication files for "Which frame fits? Policy learning with framing for climate change policy attitudes"
 
+**Offical replication repo:** https://github.com/UChicago-pol-methods/ssi3-data-analysis
+
+**Original data analysis team repo:** https://github.com/Judochopz/ssi3-data-analysis
+
 **Pre-registration:** https://osf.io/2ztxe
 
-**Paper** https://journals.sagepub.com/doi/10.1177/20531680251414927
+**Paper:** https://journals.sagepub.com/doi/10.1177/20531680251414927
 
 ## Setup
 
