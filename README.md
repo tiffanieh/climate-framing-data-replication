@@ -4,6 +4,8 @@ This repository stores replication files for "Which frame fits? Policy learning 
 
 **Pre-registration:** https://osf.io/2ztxe
 
+**Paper** https://journals.sagepub.com/doi/10.1177/20531680251414927
+
 ## Setup
 
 Create a virtual environment and install dependencies:
